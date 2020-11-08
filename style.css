@@ -1,0 +1,208 @@
+*
+{
+	position:relative;
+	margin:0px;
+	padding:0px;
+}
+
+body{
+background-color:#ccc;
+
+} 
+#outter_body{
+width:1400px;
+height:1191px;
+background-color:white;
+margin:auto;
+} 
+/***************** outter body end************************/
+
+#back_top{
+width:1400px;
+height:400px;
+background:  url(img/header-bg.png)  no-repeat scroll 0 0/ cover; 
+
+}  
+/***************** back top end************************/
+
+#back_bottom{
+height:213px;
+background-color:#525252;
+margin-top:-213px;
+z-index:9;
+}
+#inner_body{
+width:1000px;
+height:1191px;
+background-color:;
+margin:auto;
+margin-top:-400px;
+z-index:10;
+} 
+header{height:400px;
+
+background-color:;}
+
+#body{height:578px;
+}
+
+footer{height:213px;
+}
+
+#top{height:120px;
+background-color:white;}
+
+#heading{width:302px;
+height:62px;
+background-color:#2B7A91;margin-top:179px;font-family:proxima Nova;
+font-size:34px;
+font-weight:bold;
+color:#fff;
+line-height:62px;
+padding-left:19px;
+opacity:0.8}
+
+header #top #logo{weidth:294px;float:left;}
+
+header #top #menu{width:559px;float:right;height:100%;}
+header #top #menu nav#first{background-color: #76b2c3;
+    display: inline-block;
+    float: right;
+    height: 35px;
+    margin-right: -13px;
+    margin-top: 20px;
+    opacity: 0.9;
+    width: 308px;}
+
+header #top #menu nav#sec
+{
+    float: right;
+    height: 65px;
+    margin-top: 0;
+    width: 505px;}
+header #top #menu nav#sec ul{list-style:none;}
+header #top #menu nav#sec  ul li{float:left; padding: 25px;}
+header #top #menu nav#sec  ul li a{text-decoration:none;color:#668333}
+header #top #menu nav#sec  ul li a:hover
+
+#menu nav#first a img{margin-top:10px;}
+
+#menu nav#first .src_cpy{ float: right;
+    }
+
+#menu nav#first ul{list-style:none;text-decoration:none;}
+#menu nav#first ul li{border-right: 1px solid white;
+    float: left;
+    font-size: 13px;
+    margin-top: 10px;
+    padding: 0 14px 2px 17px;}
+#menu nav#first ul li:nth-child(3)
+{
+	border:none;
+}
+#menu nav#first ul li a{text-decoration:none;color:#fff}
+
+#menu nav#first ul li a:hover{text-decoration:underline;}
+
+
+
+#body .product{float: left;
+    height: 252px;
+    margin-left: 10px;
+    margin-top: 23px;
+    width: 320px;}
+
+.product .img img{border:2px solid #e1d9d2;}
+.product .detail{background-color: #f1715e;
+    color: #fff;
+    float: left;
+    font-size: 17px;
+    height: 52px;padding-left:30px;
+    margin-top: 0;
+    width: 215px; line-height: 52px;}
+.product .price{background-color: #4999af;
+    color: #fff;
+    float: right;
+    font-size: 17px;
+    height: 52px;
+	line-height: 52px;text-align:center;
+    width: 79px; margin-right: -4px;}
+
+
+footer #top{
+height:158px;
+background-color:#515151;}
+
+footer #bottom{height:54px;border-top:1px solid #6B6B6A;}
+
+
+h1,h1,h1{font-size:20px; margin-top:33px;text-align:center;color:#fff;}
+
+footer #top .signup{
+    float: left;
+    width: 320px;}
+
+footer #top .signup a{  background-color: #4999af;
+    border-radius: 6px;
+    color: #fff;
+    display: block;
+    font-size: 18px;
+    height: 35px;
+    line-height: 35px;
+    margin-left: 9px;
+    margin-top: 25px;
+    text-align: center;
+    text-decoration: none;
+    width: 298px;}
+footer #top .service{background-color: ;
+    float: right;
+    margin-left: 10px;
+    width: 320px;}
+footer #top .connect{background-color: oange;
+    float: right;
+    padding: 0;
+    width: 333px;}
+
+
+footer #top .connect p{font-size:20px;color:#fff;margin-top:19px;text-align:center;}
+footer #top .connect p+p{font-size: 12px;
+    margin-left: -92px;
+    margin-top: 5px;
+	color:#b3b3b3}
+
+footer #top .service a img{margin-top:36px;margin-left: 5px;}
+
+footer #top .service .social_icon{margin-left:57px;}
+
+#bottom p{color:#b3b3b3;margin-top:18px;float:left}
+
+#bottom nav{float:left;margin-top: 18px;}
+#bottom nav ul{list-style:none;}
+#bottom nav ul li {float:left;border-right:1px solid #b3b3b3;padding: 0 5px;font-size:12px}
+#bottom nav ul li a{text-decoration:none;color:#b3b3b3;}
+#bottom nav ul li:nth-child(2){border-right:none;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
